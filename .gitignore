@@ -1,0 +1,6 @@
+ParkSavers/packages
+bin
+obj
+*.csproj.user
+*.suo
+
